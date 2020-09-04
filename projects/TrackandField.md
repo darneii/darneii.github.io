@@ -11,7 +11,7 @@ labels:
 summary: Joining a sport team for the very first time - Track and Field.
 ---
 
-<img class="ui tiny right floated rounded image" src="../images/DSC_8994.jpg">
+<img class="ui medium right floated rounded image" src="../images/DSC_8994.jpg">
 
 I first joined the Track and Field team at Waipahu High School in my sophomore year. Besides playing basketball casually with friends, I had never been on a sport team. I wanted to go out more and be a part of something bigger rather than being a student who goes to school solely for classes.
 
