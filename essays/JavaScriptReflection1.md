@@ -15,7 +15,7 @@ When I first used FreeCodeCamp, I was a bit worried. I thought that I would be p
 I couldn't say quite the same when I continued on to the ES6 exercises. There was a balance between "Wow, I learned this before!" and "... what's happening here?". When I would get stuck, I thought I'd end up pulling my hair out and going bald before I figured out what the issue was. The exercises were new, yet familiar and enjoyable at the same time, and I can happily say that I'm glad I wasn't pulling my hair the ENTIRE time - it needs to be preserved for what I've yet to learn in this class.
 ## WODS
 
-<img class="ui medium right floated rounded image" src="../images/stressed.jpg">
+<img class="ui tiny right floated rounded image" src="../images/stressed.jpg">
 
 I found the in-class WODs to be extremely helpful, but they were also quite stressful. This was due to the fact that they're timed, and if I'm not able to finish them within a given time, I would not be given a grade. That said, I do like the WODs because they give me the opportunity to apply what I've learned. I also appreciate that we are put into pairs (three on occasions) because it allows for a small discussion in case we forgot something small that would otherwise cause the entire code to fail. This way of learning will definitely help me thrive in this class because it will allow me to put my knowledge and application skills to the test.
 
