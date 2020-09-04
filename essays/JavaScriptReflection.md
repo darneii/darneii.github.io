@@ -8,4 +8,3 @@ labels:
 - Learning
 ---
 
-Hi Hembo.
