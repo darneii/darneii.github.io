@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Dodgeball.png
-title: First Programmed Game
+title: Dodgeball Game
 permalink: projects/DodgeballProgram
 date: 2018-09-17
 labels:
@@ -17,4 +17,4 @@ Going into ICS 111, I was a complete newbie when it came to coding. I had no pre
 
 It was through this project that I was able to apply my coding skills and see if I could program what was required.  I was really proud of it because after just a few months of learning, I was able to produce a game.
 
-Game Showcase: https://www.youtube.com/watch?v=oJ2wSb8wjKw
+[Game Showcase](https://www.youtube.com/watch?v=oJ2wSb8wjKw)
