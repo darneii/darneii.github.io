@@ -11,7 +11,7 @@ labels:
 
 ## "Smart" Question
 
-The "smart" question I came across came from a developer who wanted to know how to remove a [git submodule](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule). I see this as a smart question because they showed that they attempted to do it on their own by asking why they can't input "git submodule rm whatever". While the "whatever" potion may throw it off and make it seem as if it's not a smart question, they want to know the reasoning behind why they can't use it. The answers to the question also proves that it's a smart question because those who answered explained 
+The "smart" question I came across came from a developer who wanted to know how to [revert a file](https://stackoverflow.com/questions/215718/how-can-i-reset-or-revert-a-file-to-a-specific-revision). The developer stated that they knew what specific revision they wanted to revert to using "git log" and "git diff", but they didn't know how to do so. Because the developer provided that information, those who answered were able to get right to the point.
 
 ## "Not So Smart" Question
 
