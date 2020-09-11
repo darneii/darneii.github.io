@@ -11,6 +11,9 @@ labels:
 
 ## "Smart" Question
 
+
+<img class="ui medium right floated rounded image" src="../images/Lightbulb.jpg">
+
 The "smart" question I came across came from a developer who wanted to know how to [revert a file](https://stackoverflow.com/questions/215718/how-can-i-reset-or-revert-a-file-to-a-specific-revision). The developer stated that they knew what specific revision they wanted to revert to using "git log" and "git diff", but they didn't know how to do so. Because the developer provided that information, those who answered knew that they had the hash code. They were able to get straight to the point without the need to provide a lengthy explanation on how to obtain the hash code. The top answer provided just one line, along with an extra bit of information.
 
 ## "Not So Smart" Question
