@@ -9,8 +9,6 @@ labels:
   - "Not So Smart"
 ---
 
-## Smart... right?
+The "smart" question I came across came from a developer who wanted to know how to remove a [git submodule]{https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule}.
 
-If you think "___",
-
-## What's The Difference
+The "not so smart" question I came across was from a developer who wanted to know how to print out the contents of an array using a for-loop. 
