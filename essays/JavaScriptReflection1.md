@@ -21,4 +21,4 @@ I found the in-class WODs to be extremely helpful, but they were also quite stre
 
 
 ## Looking Forward
-I can't fully call myself a pro when it comes to JavaScript, and neither can I call myself a newbie. I can say, however, that I'm someone who is willing to put in time and effort into learning new material. I did find some of the material to be stressful, but I enjoyed learning about them. I like how the class is going so far, and I hope to get as much as I can out of it.
+I can't fully call myself a pro when it comes to JavaScript, and neither can I call myself a newbie. I can say, however, that I'm someone who is willing to put in time and effort into learning new material. I did find some of the material to be stressful, but I enjoyed learning about them. I like how ICS 314 is going so far, and I hope to get as much as I can out of it.
