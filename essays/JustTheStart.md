@@ -18,4 +18,4 @@ I'm interested in learning the ins and outs of programs and softwares. Currently
 
 ## Moving Forward
 
-I hope to get as much as I can out of this class. I don't have too much familiarity in terms of language, but I hope to increase my knowledge all around, whether it be about coding or web development. I want to be proficient in many languages so that if the time comes, I won't fall behind everyone else. I know that there is much to learn, so I will do my best in this class to stay on top of my game. The description of software engineering in my mind is vague, but I'm looking forward to changing that.
+I hope to get as much as I can out of ICS 314. I don't have too much familiarity in terms of language, but I hope to increase my knowledge all around, whether it be about coding or web development. I want to be proficient in many languages so that if the time comes, I won't fall behind everyone else. I know that there is much to learn, so I will do my best in this class to stay on top of my game. The description of software engineering in my mind is vague, but I'm looking forward to changing that.
