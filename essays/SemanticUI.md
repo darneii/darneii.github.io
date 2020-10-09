@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Beauty of Website Creation
+title: Website Creation's Roller Coaster
 date: 2020-10-08
 labels:
 - Learning
