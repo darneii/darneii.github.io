@@ -16,7 +16,7 @@ If you've used a coding language like Java, you already get the idea of what a d
 
 ## Run... Only to End Up At The Same Place
 
-<img class="ui medium left floated rounded image" src="../images/RunRun.png">
+<img class="ui medium left floated rounded image" src="../images/RunRun.jpg">
 
 In my own code, there are quite a few design patterns I can point out. In the recent coding I've done, I've had to access collections many times and use them in one way or another, including uses such as initializing sample data into the collection or having users add to them using a form. I wanted to try to run away from them, but even if I were to switch to a different page to work on, it would use a collection as well. I wanted to run away from collections because for me, they can sometimes be intimidating and confusing, but I eventually had to stop and tell myself "Confront your fear of collections. You can do it".
 
