@@ -19,4 +19,6 @@ ESLint is a coding utility that checks if you've violated any coding standards. 
 
 ## Two Heads Are Better Than One, But A Party Is Even Better
 
+If you can't tackle a task on your own, why not get more people involved? Agile Project Management has taught me what it should be like where you're in a group. With the more obvious things out of the way such as introductions and talking about what needs to be done for the project itself, there are other key things to do. One is setting milestones for the project. If you set milestones and assign issues to each member, the layout of the entire project becomes much simpler. You'll know exactly what needs to be done and when it needs to be done. Another thing is to set meeting times. If you meet with your group regularly, you'll be able to talk out any issues you may have with the project and ask for assistance. Regular check-ups are good to ensure that no one is falling behind.
+
 
