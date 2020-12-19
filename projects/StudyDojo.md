@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/DSC_8994.jpg
+image: images/StudyDojo.png
 title: Study Dojo
 permalink: projects/StudyDojo
 date: 2020-12-16
