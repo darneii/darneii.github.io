@@ -11,7 +11,7 @@ labels:
 summary: Collaborating with a group for ICS 314's final project.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/DSC_8994.jpg">
+<img class="ui medium right floated rounded image" src="../images/MyDojo.png">
 
 [Study Dojo](https://study-dojo.github.io/) is a site designed to have students - grasshoppers - meet with other students to have study sessions. They are able to create study sessions where they can either be the teacher - sensei - for, or they can attend as a grasshopper. By attending more study sessions, students can accumulate points. Accumulating points allows students to show off their "validity" to others to indicate that they are a regular study session attender.
 
